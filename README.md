@@ -68,13 +68,45 @@
 
 ## 📚 Resources
 
-- [OpenCV-Python Installation](https://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html)  
-- [OpenCV Installation using Anaconda](https://medium.com/@pranav.keyboard/installing-opencv-for-python-on-windows-using-anaconda-or-winpython-f24dd5c895eb)
-- [YOLOv1 – You Only Look Once (Redmon et al., 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)  
-- [Viola-Jones Face Detection (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)  
-- [Canny Edge Detector (1988 BMVC Paper)](https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf)  
-- [An Introduction to Convolutional Neural Networks (2015)](https://arxiv.org/abs/1511.08458)
+### 📖 Official Documentation
 
+- [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) — the official, most authoritative reference for everything used in Sessions 1–5
+- [OpenCV-Python Installation](https://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html)
+- [OpenCV Installation using Anaconda](https://medium.com/@pranav.keyboard/installing-opencv-for-python-on-windows-using-anaconda-or-winpython-f24dd5c895eb)
+- [Keras: Getting Started](https://keras.io/getting_started/) & [Keras/TensorFlow Guide](https://www.tensorflow.org/guide/keras) — for Sessions 6–8
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) (see the [Quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner))
+- [Keras: Transfer Learning & Fine-tuning Guide](https://keras.io/guides/transfer_learning/) & [TensorFlow: Transfer Learning Tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning) — for Session 8
+- [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/) — for the YOLO material in Session 4 / tasks4
+- [pytesseract (Python-Tesseract) on GitHub](https://github.com/madmaze/pytesseract) — for Session 9 (OCR)
+
+### 🎥 Videos
+
+- [OpenCV Course – Full Tutorial with Python (freeCodeCamp, 4h)](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+- [3Blue1Brown – Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) — the best visual intuition for how CNNs and neural nets actually learn
+- [Convolutional Neural Networks (CNNs) – Explained](https://www.youtube.com/watch?v=YGILT182T6w)
+- [How CNNs Work (Convolutional Neural Nets)](https://www.youtube.com/watch?v=3bo8S1pAbqk)
+
+### ✍️ Articles
+
+- [OpenCV Tutorial: A Guide to Learn OpenCV (PyImageSearch)](https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
+- [SIFT: Feature Detection That Revolutionized Image Matching (Medium)](https://medium.com/@yasserelhaddar/sift-feature-detection-that-revolutionized-image-matching-f4671c1b75a7)
+- [Comparing SIFT and ORB for Feature Matching (Medium)](https://medium.com/@beauc_37732/comparing-sift-and-orb-for-feature-matching-a-visual-and-practical-exploration-6c194c72e4d6)
+- [Introduction to Feature Matching (LearnOpenCV)](https://learnopencv.com/feature-matching/)
+- [Transfer Learning with Keras/TensorFlow: An Introduction (Medium)](https://medium.com/@alfred.weirich/transfer-learning-with-keras-tensorflow-an-introduction-51d2766c30ca)
+- [A Comprehensive Tutorial on OCR in Python with Pytesseract (DataCamp)](https://www.datacamp.com/tutorial/optical-character-recognition-ocr-in-python-with-pytesseract)
+
+### 📄 Research Papers
+
+- [A Computational Approach to Edge Detection – Canny, 1986](https://www.cs.princeton.edu/courses/archive/fall13/cos429/papers/Canny86.pdf)
+- [A Combined Corner and Edge Detector – Harris & Stephens, 1988](https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf)
+- [Distinctive Image Features from Scale-Invariant Keypoints (SIFT) – Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+- [ORB: An Efficient Alternative to SIFT or SURF – Rublee et al., 2011](https://www.researchgate.net/publication/221111151_ORB_an_efficient_alternative_to_SIFT_or_SURF)
+- [Histograms of Oriented Gradients for Human Detection (HOG) – Dalal & Triggs, 2005](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
+- [Viola-Jones Face Detection (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+- [An Introduction to Convolutional Neural Networks (2015)](https://arxiv.org/abs/1511.08458)
+- [ImageNet Classification with Deep CNNs (AlexNet) – Krizhevsky et al., 2012](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [Deep Residual Learning for Image Recognition (ResNet) – He et al., 2015](https://arxiv.org/pdf/1512.03385)
+- [YOLOv1 – You Only Look Once (Redmon et al., 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
 
 ---
 

@@ -82,7 +82,10 @@
 ### 🎥 Videos
 
 - [OpenCV Course – Full Tutorial with Python (freeCodeCamp, 4h)](https://www.youtube.com/watch?v=oXlwWbU8l2o)
-- [3Blue1Brown – Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) — the best visual intuition for how CNNs and neural nets actually learn
+- [Udacity - Edge Detection](https://www.youtube.com/watch?v=-pmUQ6RSejQ)
+- [First Order Derivative Filters - Roberts, Sobel and Prewitt](https://www.youtube.com/watch?v=fhDBy-wV3ic)
+- [Canny Edge Detector](https://www.youtube.com/watch?v=c_1tSWP6PfY)
+- [3Blue1Brown – Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)— the best visual intuition for how CNNs and neural nets actually learn
 - [Convolutional Neural Networks (CNNs) – Explained](https://www.youtube.com/watch?v=YGILT182T6w)
 - [How CNNs Work (Convolutional Neural Nets)](https://www.youtube.com/watch?v=3bo8S1pAbqk)
 
@@ -107,6 +110,14 @@
 - [ImageNet Classification with Deep CNNs (AlexNet) – Krizhevsky et al., 2012](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Deep Residual Learning for Image Recognition (ResNet) – He et al., 2015](https://arxiv.org/pdf/1512.03385)
 - [YOLOv1 – You Only Look Once (Redmon et al., 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
+---
+Fun Section (mianly entertaining informational videos)
+- [CommonLuke - I Tried to Build an AI From Scratch](https://www.youtube.com/watch?v=_gEOCuy7HnA)
+- [Acerola - Difference of Gaussians](https://www.youtube.com/watch?v=5EuYKEvugLU)
+- [Acerola - Pixel Sorting](https://www.youtube.com/watch?v=HMmmBDRy-jE)
+- [Acerola - Kuwahara Filter](https://www.youtube.com/watch?v=LDhN-JK3U9g)
+- [CommonLuke - I Tried to Build an AI From Scratch](https://www.youtube.com/watch?v=IoM5zUI8oFc)
+---
 
 ---
 

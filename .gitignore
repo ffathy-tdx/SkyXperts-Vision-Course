@@ -3,4 +3,7 @@
 *.mp4
 *.gz
 *.tif
+*.keras
+*.h5
+*.pb
 __pycache__/
